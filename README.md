@@ -1,6 +1,6 @@
 📑 Resume-Guide
 
-During the internship cycle 2025-26, I searched multiple resources online to create a LaTeX-based resume. However, most resources were either too complex or not user-friendly.
+During the internship cycle 2025-26 (Btech 3rd year), I searched multiple resources online to create a LaTeX-based resume. However, most resources were either too complex or not user-friendly.
 
 To solve this, I curated and designed my own LaTeX resume templates:
 
