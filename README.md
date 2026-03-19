@@ -23,7 +23,7 @@ This repo contains **1-page and 2-page LaTeX resume templates** designed to be:
 
 ### Option 2 — Local LaTeX
 - Install TeX Live (Linux)
-sudo apt install texlive-full
+-sudo apt install texlive-full
 - Compile
 pdflatex "1 Page Resume Template by KC.tex"
 
