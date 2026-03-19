@@ -17,42 +17,42 @@ This repo contains **1-page and 2-page LaTeX resume templates** designed to be:
 ## 🛠️ How to Use
 
 ### Option 1 — Overleaf (Recommended, No Install Needed)
-- 🔷️Download the '.tex' file
-- 🔷️Go to [overleaf.com](https://www.overleaf.com) → **New Project** → **Upload Project**
-- 🔷️Upload the .tex file and compile
+- Download the '.tex' file
+- Go to [overleaf.com](https://www.overleaf.com) → **New Project** → **Upload Project**
+- Upload the .tex file and compile
 
 ### Option 2 — Local LaTeX
-- 🔷️Install TeX Live (Linux)
+- Install TeX Live (Linux)
 sudo apt install texlive-full
-- 🔷️Compile
+- Compile
 pdflatex "1 Page Resume Template by KC.tex"
 
-✏️ Customization Tips
+## ✏️ Customization Tips
 
 - Replace all placeholder text with your own details
 - Each section is clearly commented in the .tex source
 - To add/remove sections, simply comment out the relevant block
 - Font size, margins, and spacing are easy to tweak at the top of the file
 
-📖 LaTeX Beginner? Start Here
+## 📖 LaTeX Beginner? Start Here
  https://medium.com/@subhanusroy/a-beginners-guide-to-latex-for-ats-friendly-resumes-ab0919930a30
 
-📌 Additional Resources Included
+## 📌 Additional Resources Included
 
-- 🔷️IIT KGP CV Template — standard academic CV format from IIT Kharagpur
-- 🔷️Internshala Resume Guide — practical tips for internship applications in India
-- 🔷️ATS-Friendly Resume Guide — how to pass automated screening systems
-- 🔷️Research Resume (Jaskaran Walia) — a strong reference for research-focused CVs
+- IIT KGP CV Template — standard academic CV format from IIT Kharagpur
+- Internshala Resume Guide — practical tips for internship applications in India
+- ATS-Friendly Resume Guide — how to pass automated screening systems
+- Research Resume (Jaskaran Walia) — a strong reference for research-focused CVs
 
 These templates are simple, clean, and easy to customize for your needs.
 Feel free to download, edit, and use them for your own resumes! 🚀
 
-🤝 Contributing
+## 🤝 Contributing
 Have improvements or want to add a template variant?
-- 🔷️Fork this repo
-- 🔷️Create a new branch: git checkout -b feature/your-template
-- 🔷️Commit your changes
-- 🔷️Open a Pull Request
+- Fork this repo
+- Create a new branch: git checkout -b feature/your-template
+- Commit your changes
+- Open a Pull Request
 All contributions welcome!
 
 If this helped you land an internship or job, drop a ⭐ on the repo!
